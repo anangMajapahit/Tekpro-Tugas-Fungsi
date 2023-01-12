@@ -1,0 +1,26 @@
+1. Tentukan sebuah inputan x apakah prima atau tidak!
+Input : x (integer)
+Output : prima/tidak prima
+
+Contoh:
+Input : 4
+Output : Tidak Prima
+
+Input : 7
+Output: Prima
+
+2. Dalam suatu kelas terdapat n orang, pak joko ingin mengajak x orang untuk diajak menjadi anggota sebuah project untuk membantu penyelesaian COVID-19, dimana x < n. Tentukan banyak cara yg mungkin kombinasi anggota project tersebut!
+Input :
+n (integer)
+x (integer)
+Output :
+Banyak kemungkinan kombinasi anggota project
+
+
+Contoh:
+Input :
+10
+3
+
+Output :
+120
